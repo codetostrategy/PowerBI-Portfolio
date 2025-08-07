@@ -6,7 +6,8 @@ Welcome to my Power BI portfolio. This repository contains various reports built
 
 | Report Name           | Description                              | Link |
 |-----------------------|------------------------------------------|------|
-| Awesome Chocolates    | Chocolate sales dashboard using Power BI | [View](./Awesome-Chocolates) |
+| | Awesome Chocolates    | Chocolate sales dashboard using Power BI | [View Report](./Awesome-Chocolates/Awesome%20Chocolates.pbix) |
+
 
 ## 📥 How to View
 - Download `.pbix` files from the folders
