@@ -1,0 +1,22 @@
+# 🍫 Awesome Chocolates Report
+
+This report visualizes chocolate sales performance across regions, products, and time periods using Power BI.
+
+## 📁 Files
+- `Awesome Chocolates.pbix` – Power BI dashboard file.
+
+## 🔍 Key Insights
+- Top-performing regions and products
+- Monthly sales trends
+- Revenue breakdown by category
+
+## 📥 How to Use
+1. Download the `.pbix` file.
+2. Open in Power BI Desktop.
+3. Explore the visuals to gain business insights.
+
+---
+
+*(This is part of my Power BI project portfolio.)*
+
+Created folder for Awesome Chocolates Power BI report
